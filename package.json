@@ -11,6 +11,10 @@
 
 	"main": "src/index.js",
 
+	"dependencies": {
+		"csv": "0.4.6"
+	},
+
 	"devDependencies": {
 		"eslint": "2.7.0"
 	}
