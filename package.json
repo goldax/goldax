@@ -1,0 +1,17 @@
+{
+	"name": "goldax",
+	"version": "0.1.0",
+	"description": "a clever li'l fella",
+	"contributors": [
+		"Clemens Damke <admin@cortys.de>",
+		"Joshua Heindörfer"
+	],
+	"repository": "goldax/goldax",
+	"license": "UNLICENSED",
+
+	"main": "src/index.js",
+
+	"devDependencies": {
+		"eslint": "2.7.0"
+	}
+}
